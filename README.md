@@ -1,4 +1,4 @@
-gist
+Bolt Brasil - Gist
 ====
 
-Gists
+Já que não temos Gists para uma organização, criamos um repositório!
