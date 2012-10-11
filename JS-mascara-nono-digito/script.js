@@ -1,11 +1,11 @@
 /*
-*     ~Le Script
+*     Máscara de telefone com 9 dígitos
 */
 
 (function($) {
     $('#phone').on({
         'focus': function() {
-            $(this).unmask().mask('(99) 99999999?9');
+            $(this).unmask().mask('(99) 9999-9999?9');
         },
         'focusout': function() {
             var $element = $(this),
