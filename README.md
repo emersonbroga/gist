@@ -14,5 +14,7 @@ Regras
 
 * Coloque uma descrição comentada no inicio do gist explicando qual o objetivo dele.
 
+* O nome do gist (arquivo) deverá ser o mesmo da pasta, retirando apenas a TAG.
+
 ### Exemplo
-`JS-mascara-nono-digito`
+`JS-mascara-nono-digito` > `mascara-nono-digito.js`
