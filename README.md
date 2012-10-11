@@ -1,7 +1,7 @@
 Bolt Brasil - Gists
 ====
 
-Repositório criado para colocarmos gists que axiliam na produção.
+Repositório criado para colocarmos gists que auxiliam na produção.
 
 
 Regras
