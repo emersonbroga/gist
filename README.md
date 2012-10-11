@@ -17,4 +17,4 @@ Regras
 * O nome do gist (arquivo) deverá ser o mesmo da pasta, retirando apenas a TAG.
 
 ### Exemplo
-`JS-mascara-nono-digito` > `mascara-nono-digito.js`
+`Javascript` > `JS-mascara-nono-digito` > `mascara-nono-digito.js`
